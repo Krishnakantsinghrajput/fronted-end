@@ -1,0 +1,23 @@
+#first{
+  height: 400px;
+  width: 300px;
+      border: 2px solid rgb(25, 132, 214);
+    background-color: rgb(234, 243, 247);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+#second{
+ 
+    height: 350px;
+  width: 300px;
+    border: 2px solid rgb(25, 132, 214);
+    background-color: rgb(234, 243, 247);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+

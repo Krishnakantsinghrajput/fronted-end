@@ -1,0 +1,30 @@
+#static{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    position: static;
+    left: 100px;
+    right: 200px;
+}
+#relative{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(181, 70, 70);
+    position: relative;
+    left: 200px;
+}
+#absolute{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(62, 174, 42);
+    position: absolute;
+   left: 300px;
+}
+#fixed{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(194, 220, 23);
+    position: fixed;
+    top: 50px;
+    left: 300px;
+}

@@ -1,0 +1,31 @@
+/* h1{
+    color: rgb(10, 181, 124);
+} */
+
+*{
+    background-color: rgb(42, 38, 45);
+    color: white;
+    
+    
+}
+
+.kk{
+    color: blueviolet;
+}
+
+#kk{
+    color: rgb(177, 111, 12);
+}
+
+h1,h3{
+color: brown;
+}
+
+
+h1:hover{
+    background-color: burlywood;
+}
+
+*:hover{
+    background-color: aquamarine;
+}
