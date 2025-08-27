@@ -1,0 +1,80 @@
+  
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar{
+    height: 60px;
+   position: sticky;
+   top: 0px;
+
+
+    background-color:  rgb(31, 63, 71);
+  }
+
+  .navbar:hover{
+    background-color: rgb(58, 241, 107);
+  }
+
+  .navbar-option  {
+    position: absolute ;
+    right: 0px; 
+    margin: 10px;
+   
+ }
+
+ .navbar-option a:hover{
+    background-color: rgb(242, 242, 5);
+    opacity: .8;
+ }
+ .navbar .logo{
+    position: fixed;
+    left:0px ;
+    margin: 5px;
+    
+    
+ }
+
+ 
+
+ .krishna{
+    height: 50px;
+    width: 60px;
+    background-color: rgb(25, 164, 223);
+    border-radius: 50%;
+        
+ }
+
+ .krishna:hover{
+    background-color: rgb(244, 248, 10);
+ }
+
+ .krishna a{
+    color:rgb(236, 102, 13);
+      position: relative;
+      left: 2px;
+      top: 12px;
+      font-weight: 600;
+      
+    
+   
+    
+ }
+
+ .krishna a:hover{
+   color: rgb(250, 22, 6);
+   opacity: 1;
+   
+
+     
+ }
+ 
+  
+
+
+
+ a{
+     text-decoration: none;
+     color: cornflowerblue;
+ }

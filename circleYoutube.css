@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #9c27b0;
+}
+
+.loader{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    transform-style: preserve-3d;
+}
+
+.loader span{
+    position: absolute;
+    display: block;
+    border: 5px solid #fff
+    , inset 0 5px 0 #ccc;
+    box-sizing: border-box;
+    border-radius: 50%;
+    animation: animate 3s ease-in-out infinite;
+}
+
+.loader span:nth-child(1){
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

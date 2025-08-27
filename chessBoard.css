@@ -1,0 +1,12 @@
+.div1,.div3,.div5,.div7,.div9,.div11.div13,.div15,.div17{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+.div2,.div4,.div6,.div8,.div10,.div12,.div14,.div16 ,.div18{
+    height: 50px;
+    width: 50px;
+    background-color:white;
+}
+
+ 
